@@ -1,6 +1,6 @@
 package id.co.apprasyid.myapplication
 
-data class Hero(
+data class Pantai(
     var name: String = "",
     var detail: String = "",
     var photo: Int = 0
